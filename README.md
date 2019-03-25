@@ -12,15 +12,25 @@ deals with the management of the airport, airlines, passengers and employees wor
 
 ##### We will be performing the below mentioned importannt aspects of Database
 
-ENTITIES BEFORE NORMALIZATION
+ENTITIES BEFORE NORMALIZATION 
+
 ER/EER RELATIONSHIP
+
 ER DIAGRAM
+
 NORMALIZATION OF TABLES
+
 TABLES AFTER NORMALIZATION
+
 NORMALIZED EER DIAGRAM
+
 PRIVILEGES
+
 INDEXES
+
 VIEWS
+
 PROCEDURES
+
 TRIGGERS
 

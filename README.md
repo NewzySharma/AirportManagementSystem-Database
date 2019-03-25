@@ -10,7 +10,7 @@ my focus will be to create a database for the airport system as well. As Airport
 deals with the management of the airport, airlines, passengers and employees working for an airport. 
 
 
-##### We will be performing the below mentioned importannt aspects of Database
+#### We will be performing the below mentioned importannt aspects of Database
 
 ENTITIES BEFORE NORMALIZATION 
 
